@@ -1,6 +1,6 @@
-# Script-Sammlung für Windows & Debian
+# Script-Sammlung für Debian
 
-Willkommen auf unserer GitHub-Repository-Seite! Hier sammeln wir eine Vielzahl an nützlichen Skripten für Windows- und Linux-Systeme. Ziel ist es, eine zentrale Anlaufstelle für automatisierte Lösungen, hilfreiche Tools und nützliche Hacks zu schaffen, die sowohl im privaten Alltag als auch im geschäftlichen Umfeld eingesetzt werden können.
+Willkommen auf unserer GitHub-Repository-Seite! Hier sammeln wir eine Vielzahl an nützlichen Skripten für Debainsysteme. Ziel ist es, eine zentrale Anlaufstelle für automatisierte Lösungen, hilfreiche Tools und nützliche Hacks zu schaffen, die sowohl im privaten Alltag als auch im geschäftlichen Umfeld eingesetzt werden können.
 
 ---
 
